@@ -1,6 +1,6 @@
-# Tailwind CSS Learning Repository
+# Tailwind CSS and JavaScript Learning Repository
 
-This repository is dedicated to my journey of learning **Tailwind CSS** through the **Geekster** course. 
+This repository is dedicated to my journey of learning **Tailwind CSS** and **JavaScript** through the **Geekster** courses.
 
 ## About Tailwind CSS
 
@@ -12,18 +12,29 @@ This repository is dedicated to my journey of learning **Tailwind CSS** through 
 - **Customization:** Tailwind is highly customizable, allowing you to define your color palette, spacing, and other design tokens.
 - **Dark Mode Support:** Built-in support for dark mode styling with ease.
 
-## About the Geekster Course
+### About the Geekster Course on Tailwind CSS
 
-The **Geekster** course on Tailwind CSS provides a comprehensive curriculum designed for developers of all levels. This course covers the fundamentals of Tailwind, practical applications, and advanced techniques to help you master the framework. 
+The **Geekster** course on Tailwind CSS provides a comprehensive curriculum designed for developers of all levels. This course covers the fundamentals of Tailwind, practical applications, and advanced techniques to help you master the framework.
 
-### What You'll Learn:
+#### What You'll Learn:
 - Setting up a Tailwind CSS project from scratch.
 - Understanding and utilizing utility classes effectively.
 - Creating responsive layouts and components.
 - Customizing Tailwind's default configuration to match your design needs.
 - Implementing best practices for Tailwind CSS in real-world projects.
 
-By working through this course, I aim to enhance my web development skills and gain a deeper understanding of modern CSS practices.
+## About the JavaScript Course
+
+The **Geekster** course on JavaScript is designed to help learners grasp the **basics of JavaScript**, an essential language for web development. This course covers foundational concepts that enable developers to create dynamic and interactive web applications.
+
+### What You'll Learn:
+- Basic JavaScript syntax and programming concepts, including variables, data types, and operators.
+- Control structures such as loops and conditionals.
+- Functions and how to define and invoke them.
+- Working with the Document Object Model (DOM) to manipulate web pages.
+- Handling events and user interactions.
+
+By working through both courses, I aim to enhance my web development skills and gain a deeper understanding of modern front-end development practices.
 
 ---
 
